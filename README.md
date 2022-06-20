@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:
 -   C/C++ and ASM
 -   Always learnign new technqiues
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReverseThrottle&langs_count=)](https://github.com/anuraghazra/github-readme-stats)
