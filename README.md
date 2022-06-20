@@ -1,4 +1,6 @@
 ### Hi there 👋
+Wannabe Malware Developer / Security Researcher
+
 
 <!--
 **ReverseThrottle/ReverseThrottle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on:
+-   Sektor7 courses 
+-   Developing Custom dropper called 0xDescent
+-   Reading Windows 10 System Programming by Pavel
+-   
+- 🌱 I’m currently learning:
+-   C/C++ and ASM
+-   Always learnign new technqiues
