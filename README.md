@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReverseThrottle&langs_count=5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReverseThrottle&langs_count=5)
