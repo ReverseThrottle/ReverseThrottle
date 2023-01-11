@@ -1,19 +1,12 @@
 
-
-buymeacoffee
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Zachary Hopping
 ================================
 
 Malware / Exploit Developer Focusing on Windows
 -----------------------------------------------
 
-Graduated from the University of Advancing Technolgy 2022 Code everything in C/C++ & Python
+Graduated from the University of Advancing Technolgy 2022<br> 
+Code everything in C/C++ & Python
 
 * 🖥️  See my portfolio at [Reverse Throttle's Blog](http://zhopp533.gitbook.io/blog/)
 * 🧠  I'm learning the basics of exploit development
