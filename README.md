@@ -2,14 +2,13 @@
 Hi 👋 My name is Zachary Hopping
 ================================
 
-Malware / Exploit Developer Focusing on Windows
+Solutions Consultant @ Palo Alto Networks
 -----------------------------------------------
 
-Graduated from the University of Advancing Technolgy 2022<br> 
-Code everything in C/C++ & Python
+Graduated from the University of Advancing Technology in 2022<br> 
+
 
 * 🖥️  See my portfolio at [Reverse Throttle's Blog](http://zhopp533.gitbook.io/blog/)
-* 🧠  I'm learning the basics of exploit development
 
 <a href="https://www.twitter.com/ReverseThrottle" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ReverseThrottle?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
